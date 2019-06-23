@@ -3,7 +3,7 @@ def reverse_string(str):
   for letter in str[::-1]: 
     output += letter
   return output.lower()
-  # return string[::-1] # same ish but in one line 
+#   return str[::-1].lower() # same ish but in one line 
 
 
 
