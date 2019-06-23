@@ -5,8 +5,5 @@ def reverse_string(str):
   return output.lower()
 #   return str[::-1].lower() # same ish but in one line 
 
-
-
-
 if __name__ == "__main__":
     print(reverse_string('Bullocks'))
